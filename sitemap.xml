@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://iplaytviptv.org/</loc>
-        <lastmod>2026-11-11</lastmod>
+        <lastmod>2026-11-12</lastmod>
     </url>
     <url>
         <loc>https://iplaytviptv.org/guides.html</loc>
@@ -10,7 +10,7 @@
     </url>
     <url>
         <loc>https://iplaytviptv.org/about.html</loc>
-        <lastmod>2026-11-11</lastmod>
+        <lastmod>2026-11-12</lastmod>
     </url>
     <url>
         <loc>https://iplaytviptv.org/iplaytv-samsung-smart-tv-setup-guide.html</loc>
@@ -18,6 +18,10 @@
     </url>
     <url>
         <loc>https://iplaytviptv.org/understanding-epg-in-iptv-smarters-pro.html</loc>
+        <lastmod>2026-11-12</lastmod>
+    </url>
+    <url>
+        <loc>https://iplaytviptv.org/can-i-watch-iptv-on-my-laptop.html</loc>
         <lastmod>2026-11-12</lastmod>
     </url>
 </urlset>
